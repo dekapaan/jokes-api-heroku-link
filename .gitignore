@@ -1,0 +1,8 @@
+# ENV files.
+env
+
+# Binary files
+__pycahce__
+
+# IDE files
+.idea
